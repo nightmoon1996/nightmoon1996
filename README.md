@@ -8,8 +8,4 @@
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=nightmoon1996&theme=gruvbox&hide_border=true&area=true)
 
-  <div align="center">
-  <a href="https://open.spotify.com/user/7x2d34m0vttgyj1vcgdlxg63b?si=1c1cf10151db46e2">
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
-  </a>
 </div>
