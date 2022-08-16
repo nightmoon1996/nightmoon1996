@@ -1,5 +1,5 @@
 # 💫 About Me:
-📫 How to reach me : nk23a4@gmail.com<br>👨‍💻 All of my projects are available at : kanames.carrd.co<br>📝 I regularly write articles on : medium.com/@KanameS
+📫 How to reach me : nk23a4@gmail.com<br>👨‍💻 All of my projects are available at : [kanames.carrd.co](kanames.carrd.co/@blank)<br>📝 I regularly write articles on : [medium.com/@KanameS](medium.com/@KanameS/@blank)
 
 
 ## 🌐 Socials:
